@@ -9,4 +9,5 @@ This repository was built as part of the RAIES ([Rede de Inteligência Artificia
 - [X] Add the missing GIF.
 - [X] Update the video.
 - [X] Spellchecking and grammar revision.
-- [ ] Pilot test.
+- [x] Pilot test.
+- [ ] Data collection.
